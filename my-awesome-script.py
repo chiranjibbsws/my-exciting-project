@@ -1,4 +1,4 @@
 #!/bin/python
-
-print('Howdy, World!')
+# This is an awesome Python script 
+print("Hello! World, we are one!")
 
